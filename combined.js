@@ -1,8 +1,8 @@
 var urls = [
-  '.a1a511322s4a.top',
-	'.u4e7h2w1f5t5v.top',
-	'.8742quiojfadjkaa.top',
-	'.fdsa51554122s4a.top',
+  '.a.top',
+	'.b.top',
+	'.c.top',
+	'.d.top',
 ];
 var newURL = urls[Math.floor(Math.random() * urls.length)];
 
