@@ -1,12 +1,11 @@
 var urls = [
   '.a1a511322s4a.top',
-	'.u4e7h2w1f5t5v.top',
-	'.8742quiojfadjkaa.top',
-	'.fdsa51554122s4a.top',
-	'.1a1a511322s4a.top',
-	'.2u4e7h2w1f5t5v.top',
-	'.38742quiojfadjkaa.top',
-	'.4fdsa51554122s4a.top',
+  '.u4e7h2w1f5t5v.top',
+  '.8742quiojfadjkaa.top',
+  '.fdsa51554122s4a.top',
+  '.1a1a511322s4a.top',
+  '.38742quiojfadjkaa.top',
+  '.4fdsa51554122s4a.top',
 ];
 
 var newURL = urls[Math.floor(Math.random() * urls.length)];
